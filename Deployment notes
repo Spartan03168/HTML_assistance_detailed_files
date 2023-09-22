@@ -1,0 +1,10 @@
+Notes
+- There are a few file here that are html assistances.One file will be a screenshot of the file path of where you need to go to modify it. 
+- The others will be the actual files with modifications in the form of comments highlighting where to modify it
+
+To summerize:
+- The projects file with the HTML code that has been modified to highlight where to modify the files
+- The modification template you can use that I tested and proven to work is going to be in its own file
+- And a screenshot of the file path you need to use to reach the specific file you need to modify.
+
+When you have the destination for the buttons ready implement the redirect mechansim into your code as highlighted on the modified page with the highlights.
